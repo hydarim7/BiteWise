@@ -2,7 +2,8 @@
 
 **From pantry chaos to plated perfection—smarter, healthier, waste-wise cooking starts here.**
 
-BiteWise is an AI-powered kitchen assistant that transforms your pantry and fridge contents into personalized, calorie-conscious, and dietary-friendly recipes. Whether you're a busy home cook, a health-conscious eater, or a culinary explorer, BiteWise helps you create delicious meals while minimizing food waste and respecting your dietary preferences, allergies, and cuisine choices.
+BiteWise is an AI-powered kitchen assistant that transforms your pantry and fridge contents into personalized, calorie-conscious, and dietary-friendly recipes. Powered by **gemini-2.0-flas** and **few-shot learning**, BiteWise quickly adapts to your preferences and dietary needs, learning from just a few examples of your favorite meals or restrictions. Whether you're a busy home cook, a health-conscious eater, or a culinary explorer, BiteWise helps you create delicious meals while minimizing food waste and respecting your allergies, cuisine choices, and nutritional goals.
+
 
 ## Table of Contents
 - [Overview](#overview)
