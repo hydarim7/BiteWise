@@ -52,6 +52,9 @@ Many people struggle to cook meals due to limited time, leftover ingredients, an
    - The AI generates a list of recipes tailored to your inputs, including names, ingredients, and estimated calories.
 4. **Explore Details**:
    - View preparation instructions, nutritional breakdowns, and waste reduction tips for each recipe.
+## Visual Overview
+![BiteWise Flow](image_2025-04-20_17-47-05.png)
+
 
 ## Installation
 To run BiteWise locally, follow these steps:
