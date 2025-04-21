@@ -54,6 +54,12 @@ Many people struggle to cook meals due to limited time, leftover ingredients, an
    - View preparation instructions, nutritional breakdowns, and waste reduction tips for each recipe.
 ## Visual Overview
 ![BiteWise Flow](image_2025-04-20_17-47-05.png)
+![BiteWise Flow](image_2025-04-20_17-47-45.png)
+![BiteWise Flow](image_2025-04-20_17-47-04.png)
+![BiteWise Flow](image_2025-04-20_17-47-52.png)
+![BiteWise Flow](image_2025-04-20_17-47-44.png)
+![BiteWise Flow](image_2025-04-20_18-36-56.png)
+![BiteWise Flow](image_2025-04-20_18-40-59.png)
 
 
 ## Installation
