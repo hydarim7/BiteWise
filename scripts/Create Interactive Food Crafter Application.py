@@ -103,23 +103,7 @@ def create_food_crafter_app(client):
             .loading-spinner {
                 color: #B0BEC5 !important;
             }
-            .widget-label {
-                color: #E0E0E0 !important;
-            }
-            .widget-checkbox .widget-label {
-                color: #E0E0E0 !important;
-            }
-            .widget-text, .widget-dropdown {
-                background-color: #424242 !important;
-                color: #E0E0E0 !important;
-                border: 1px solid #757575 !important;
-            }
-            .input-message {
-                background-color: #424242 !important;
-                border-left: 4px solid #81C784 !important;
-                color: #E0E0E0 !important;
-            }
-        }
+            .
     </style>
     """)
 
