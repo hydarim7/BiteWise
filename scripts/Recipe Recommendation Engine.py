@@ -412,11 +412,6 @@ def suggest_recipes_from_ingredients(client, ingredients, calorie_limit, cuisine
     Example Output:
     """
 
-    # Generate content using the client and prompt, specifying JSON response format
-    response = client.generate_content(
-        contents=[{"parts": [{"text": few_shot_prompt}]}],
-        generation_config=genai.types.GenerationConfig(response_mime_type="application/json")
-    )
 
     # Return the generated text (JSON)
     return response.text
